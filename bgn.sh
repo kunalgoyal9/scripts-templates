@@ -1,4 +1,4 @@
-echo "contest name"
+echo "Contest name"
 read contest
 mkdir $contest
 cd $contest
