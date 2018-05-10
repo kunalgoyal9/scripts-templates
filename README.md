@@ -1,2 +1,2 @@
 # scripts-templates
-various scripts/templates to make my work easier
+various python/bash scripts/templates to make my work easier
